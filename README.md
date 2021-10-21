@@ -3,6 +3,7 @@
 ***
 ## 目录
 * 实验报告（汇总）：<a href='https://github.com/jingfelix/HUST-C-Programming-language/blob/main/%E6%B1%87%E6%80%BB.docx'>汇总</a>
+* EduCoder 线上实验-源码：[EduCoder](https://github.com/jingfelix/HUST-C-Programming-language/blob/main/educoder.c)
 * 实验一：<a href='https://github.com/jingfelix/HUST-C-Programming-language/blob/main/%E5%AE%9E%E9%AA%8C1.docx'>表达式和标准输入与输出实验</a>
 * 实验二：<a href='https://github.com/jingfelix/HUST-C-Programming-language/blob/main/%E5%AE%9E%E9%AA%8C2.docx'>流程控制实验</a>
 * 实验三：<a href='https://github.com/jingfelix/HUST-C-Programming-language/blob/main/%E5%AE%9E%E9%AA%8C3.docx'>函数与程序结构实验</a>
